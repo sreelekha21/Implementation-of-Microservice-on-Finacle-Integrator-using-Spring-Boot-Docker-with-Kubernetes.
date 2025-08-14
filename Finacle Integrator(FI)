@@ -1,0 +1,11 @@
+What is Finacle Integrator(FI)?
+
+In summary, Finacle Integration Framework provides support for seamless integration of Finacle Core Banking Solution with the bank’s various backend systems and channels.
+It offers synchronous and asynchronous data communication in either direction while being able to integrate with standard middleware applications. 
+It has the necessary adaptors to align with industry-standard tools for security, application monitoring, and error handling. 
+It also provides details on the mechanisms supported within the framework in order to establish the interfaces from Finacle to multiple systems and delivery channels to provide a consistent user experience.
+
+The Finacle Integrator supports transactions such as balance inquiries, cash withdrawals, and fund transfers. 
+This is done through the channels like ATM, POS, and IVR and multiple types of interfaces like Web Services which are fast becoming the industry standard for integration. 
+All the functions like inquiries, service requests, bill payments, accounts, and customer creation which are available through Finacle EJBs, are also available through web services. 
+The web services using SOAP (format) over HTTP can be accessed by any XML-aware application regardless of the programming language or operating system.
